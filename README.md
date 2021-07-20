@@ -25,7 +25,7 @@ The REIT has hired us to find a data-driven approach to valuing properties.
 # 2. Machine Learning Problem
 ## 2.1 Data Overview
 
-Dataset link : 
+Dataset link : https://archive.ics.uci.edu/ml/machine-learning-databases/housing/
 
 #### Target Variable
 * 'tx_price' - Transaction price in USD
