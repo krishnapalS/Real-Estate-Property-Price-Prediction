@@ -1,5 +1,7 @@
 # Real-Estate-Property-Price-Prediction
 
+![img](https://prutor.ai/wp-content/uploads/housing-price-prediction.jpg)
+
 ### Real Estate(Regression Problem)
 
 # 1. Business Problem
